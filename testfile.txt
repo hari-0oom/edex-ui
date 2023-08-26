@@ -1,2 +1,8 @@
 jai shree ram
 added lol.py file
+
+
+untracked (new files)
+modified (changed files, existing ones)
+staged (files ready for final commiting)
+commited/ unmodified (files status successfully added to our vsc and our vcs has a snapshot the current state)
